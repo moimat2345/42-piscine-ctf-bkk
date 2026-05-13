@@ -12,8 +12,6 @@ across 5 difficulty tiers (beginner → impossible).
 
 Built by **matnusko** for the 42 Bangkok piscine of May 2026.
 
-_(Feel free to edit this README on github and replace "matnusko" with your real name if you want full credit visible.)_
-
 ## 🎁 Easter egg
 
 If you found your way here via the footer of the CTF site, you're already thinking like a real CTFer. Real ones always check who built the thing they're playing on, and read what's there.
